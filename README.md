@@ -1,4 +1,4 @@
-# CAT_Rloaded_CS_Assignments
+# CAT_Reloaded_CS_Assignments
 
 ## contests
 ### CS50 Psets Assignments
